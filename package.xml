@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ParentFolder</members>
+        <members>ParentFolder/ChildFolder1</members>
+        <members>ParentFolder/ChildFolder1/ChildFolder2</members>
+        <members>ParentFolder/ChildFolder1/ChildFolder2/New_Accounts_Report_Khf</members>
+        <name>Report</name>
+    </types>
+    <version>60.0</version>
+</Package>
